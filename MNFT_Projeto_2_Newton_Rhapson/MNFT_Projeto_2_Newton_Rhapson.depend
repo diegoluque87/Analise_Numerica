@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1503791263 source:f:\arquivos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_2_newton_rhapson\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+
+1503793333 source:f:\arquivos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_2_newton_rhapson\main1.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1503584411 source:d:\codeblocks\mnft_projeto_1_bicessao\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+
+1502669859 source:d:\codeblocks\mnft_projeto_1_bicessao\main_1.c
+	<stdio.h>
+	<math.h>
+
+1502737354 source:d:\codeblocks\mnft_projeto_1_bicessao\main_2.c
+	<stdio.h>
+	<math.h>
+
+1504458720 source:f:\arquivos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_1_bicessao\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+

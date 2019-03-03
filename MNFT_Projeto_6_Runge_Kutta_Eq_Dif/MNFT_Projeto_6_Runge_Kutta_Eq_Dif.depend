@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508377259 source:c:\users\diego luque\onedrive\documentos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_6_runge_kutta_eq_dif\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+	<ctype.h>
+
+1508377259 source:c:\users\dmartin\onedrive\documentos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_6_runge_kutta_eq_dif\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+	<ctype.h>
+

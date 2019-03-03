@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504458828 source:f:\arquivos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_3_secante\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507470969 source:c:\users\diego luque\onedrive\documentos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_5_runge-kutta\main.c
+	<stdio.h>
+	<math.h>
+	<locale.h>
+	<ctype.h>
+

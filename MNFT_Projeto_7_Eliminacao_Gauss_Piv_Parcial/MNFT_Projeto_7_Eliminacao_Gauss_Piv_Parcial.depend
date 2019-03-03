@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1508609904 source:c:\users\diego luque\onedrive\documentos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_7_eliminacao_gauss_piv_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1508965734 source:c:\users\dmartin\onedrive\documentos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_7_eliminacao_gauss_piv_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1509052908 source:c:\users\dmartin\onedrive\documentos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_7_eliminacao_gauss_piv_parcial\main2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1509301716 source:c:\users\diego luque\onedrive\documentos\mestrado\métodos numéricos em fenômenos de transporte\mnft_projeto_7_eliminacao_gauss_piv_parcial\main2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
